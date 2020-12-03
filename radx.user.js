@@ -12,7 +12,7 @@ thank NLR!
 Number.prototype.between = function(a, b) {return this > a && this < b};
 
 var range = 25;
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/SomeUselessGuy/randomo/master/';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Blackjack-pony/randomo/master/';
 
 setTimeout(init, 3000);
 
